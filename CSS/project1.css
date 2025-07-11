@@ -4,7 +4,7 @@ body{
 
 }
 header{
-     background-color: whitesmoke;
+     background-color: white;
      display: grid;
      grid-template-columns: 60% 40%;
      
