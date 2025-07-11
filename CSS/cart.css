@@ -1,0 +1,186 @@
+
+.Header{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    background-color: whitesmoke;
+    font-size: 25px;
+}
+nav a{
+    text-decoration: none;
+    gap: 20px;
+    padding: 35px;
+    color: black;  
+    align-content: center; 
+}
+nav i{
+    padding: 20px;
+}
+h3{
+    margin-left: 80px;
+}
+.block1{
+    border: 2px solid rgb(243, 242, 242);
+    width: 850px;
+    height: 250px;
+    box-shadow: 5px 5px 4px rgb(200, 199, 199);
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.A{
+    width: 230px;
+    height: 180px;
+    margin-left: 20px;
+}
+.B{
+    margin-left: 190px;
+    margin-top: -150px;
+}
+.C {
+    margin-left: 280px;
+    margin-top: 80px;
+}
+.D{
+    margin-left: 380px;
+    margin-top: -35px;
+}
+.E{
+    margin-left: 800px;
+    margin-top: -170px;
+    font-size: 40px;
+}
+.F{
+     margin-left: 750px;
+    margin-top: 90px;
+}
+.G{
+     margin-left: 790px;
+    margin-top: -30px;
+    size: 300px;
+}
+button{
+    width: 30px;
+    height: 30px;
+}
+.block2{
+    border: 2px solid rgb(243, 242, 242);
+    width: 850px;
+    height: 250px;
+    box-shadow: 5px 5px 4px rgb(200, 199, 199);
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.A{
+    width: 230px;
+    height: 180px;
+    margin-left: 20px;
+}
+.B{
+    margin-left: 190px;
+    margin-top: -150px;
+}
+.C {
+    margin-left: 280px;
+    margin-top: 80px;
+}
+.D{
+    margin-left: 380px;
+    margin-top: -35px;
+}
+.E{
+    margin-left: 800px;
+    margin-top: -170px;
+    font-size: 40px;
+}
+.F{
+     margin-left: 750px;
+    margin-top: 90px;
+}
+.G{
+     margin-left: 790px;
+    margin-top: -30px;
+    size: 300px;
+}
+button{
+    width: 30px;
+    height: 30px;
+}
+.block3{
+    border: 2px solid rgb(243, 242, 242);
+    width: 850px;
+    height: 250px;
+    box-shadow: 5px 5px 4px rgb(200, 199, 199);
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.A{
+    width: 230px;
+    height: 180px;
+    margin-left: 20px;
+}
+.B{
+    margin-left: 190px;
+    margin-top: -150px;
+}
+.C {
+    margin-left: 280px;
+    margin-top: 80px;
+}
+.D{
+    margin-left: 380px;
+    margin-top: -35px;
+}
+.E{
+    margin-left: 800px;
+    margin-top: -170px;
+    font-size: 40px;
+}
+.F{
+     margin-left: 750px;
+    margin-top: 90px;
+}
+.G{
+     margin-left: 790px;
+    margin-top: -30px;
+    size: 300px;
+}
+button{
+    width: 30px;
+    height: 30px;
+}
+.block4{
+    border: 1px solid rgb(238, 237, 237);
+     box-shadow: 5px 5px 4px rgb(200, 199, 199);
+    width: 350px;
+    height: 150px;
+    margin-left: 1000px;
+    margin-top: -800px;
+}
+.footer1{
+    display: grid;
+    flex-wrap: wrap;
+    background-color:navy;
+    grid-template-columns: 25% 25% 25% 25%;
+    margin-top: 800px;
+    padding: 80px;
+    padding-left: 100px;
+}
+.footer1 h3 {
+    color: white;
+}
+.fa-solid {
+    color: black;
+}
+.footer1 p{
+    color: gray;
+}
+.mart i{
+    color: white;
+}
+.about{
+    margin-left: -80px;
+}
+.phone{
+    margin-top: -30px;
+}
